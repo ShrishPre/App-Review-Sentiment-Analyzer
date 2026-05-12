@@ -1,0 +1,65 @@
+# Intelligent App Review Sentiment Analyzer
+
+## Overview
+This project is a Machine Learning based web application that analyzes app reviews and predicts whether the sentiment is positive or negative.
+
+The application was built using Python and Streamlit, with a focus on text preprocessing and sentiment classification.
+
+---
+
+## Features
+- Predicts sentiment of app reviews
+- Interactive Streamlit interface
+- Text preprocessing and cleaning
+- Real-time sentiment prediction
+
+---
+
+## Technologies Used
+- Python
+- Streamlit
+- Scikit-learn
+- NLP (Natural Language Processing)
+- Joblib
+
+---
+
+## Project Workflow
+1. Data Cleaning & Text Preprocessing
+2. Model Training
+3. Sentiment Prediction
+4. Streamlit App Development
+5. Deployment
+
+---
+
+## How It Works
+The user enters an app review into the application.  
+The text is cleaned and processed before being passed into the trained machine learning model, which predicts whether the review sentiment is positive or negative.
+
+---
+
+## Project Files
+- app.py
+- sentiment.pkl
+- Intelligent App Review System.ipynb
+- requirements.txt
+
+---
+
+## Application Preview
+(Add screenshots here)
+
+---
+
+## What I Learned
+- Text preprocessing techniques
+- Sentiment analysis using machine learning
+- Streamlit application development
+- Model integration in web applications
+
+---
+
+## Author
+Shristi Jain
+Aspiring Data Analyst
